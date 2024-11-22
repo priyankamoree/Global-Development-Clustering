@@ -1,4 +1,4 @@
-## Global Development Clustering Analysis
+## Global Development Measurement Clustering Analysis
 This project involves clustering countries or regions based on global development indicators such as GDP, literacy rates, life expectancy, and infrastructure metrics. By grouping similar entities, this analysis aims to uncover patterns and aid in targeted decision-making for development initiatives.
 
 **Key Objectives:**
